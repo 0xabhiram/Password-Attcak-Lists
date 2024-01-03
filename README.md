@@ -1,6 +1,6 @@
 # Password-Attcak-Lists
 
-# Password Attacks
+
 
 ## Generating Wordlists
 
